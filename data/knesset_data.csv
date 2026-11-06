@@ -1,241 +1,309 @@
-number,party,seats,starting_date
-2,"מפא""י",45,8/20/1951
-2,ציונים כלליים,20,
-2,"מפ""ם",15,
-2,הפועל המזרחי,8,
-2,תנועת החרות,8,
-2,"מק""י",5,
-2,המפלגה הפרוגרסיבית,4,
-2,רשימה דמוקרטית לערביי ישראל,3,
-2,"אגו""י",3,
-2,ספרדים ועדות מזרח,2,
-2,"פא""י",2,
-2,המזרחי,2,
-2,קידמה ועבודה,1,
-2,התאחדות התימנים,1,
-2,חקלאות ופיתוח,1,
-2,אחדות העבודה - פועלי ציון,0,
-3,"מפא""י",40,8/15/1955
-3,חרות,15,
-3,הציונים הכלליים,13,
-3,חזית דתית לאומית,11,
-3,אחדות העבודה - פועלי ציון,10,
-3,"מפ""ם",9,
-3,חזית דתית תורתית,6,
-3,"מק""י",6,
-3,המפלגה הפרוגרסיבית,5,
-3,רשימה דמוקרטית לערביי ישראל,2,
-3,קידמה ועבודה,2,
-3,חקלאות ופיתוח,1,
-4,"מפא""י",47,11/30/1959
-4,חרות,17,
-4,"מפד""ל",12,
-4,"מפ""ם",9,
-4,הציונים הכלליים,8,
-4,אחדות העבודה - פועלי ציון,7,
-4,חזית דתית תורתית,6,
-4,המפלגה הפרוגרסיבית,6,
-4,"מק""י",3,
-4,קידמה ופיתוח,2,
-4,שיתוף ואחווה,2,
-4,חקלאות ופיתוח,1,
-5,"מפא""י",42,8/15/1961
-5,תנועת החרות,17,
-5,המפלגה הליברלית,17,
-5,"מפד""ל",12,
-5,"מפ""ם",9,
-5,אגודת עבודה פועלי ציון,8,
-5,"מק""י",5,
-5,אגודת ישראל,4,
-5,פועלי אגודת ישראל,2,
-5,שיתוף ואחווה,2,
-5,קידמה ופיתוח,2,
-6,המערך,45,11/22/1965
-6,"גח""ל",26,
-6,"מפד""ל",11,
-6,"רפ""י",10,
-6,"מפ""ם",8,
-6,ליברלים עצמאיים,5,
-6,אגודת ישראל,4,
-6,"רק""ח",3,
-6,קידמה ופיתוח,2,
-6,"פאג""י",2,
-6,שיתוף ואחווה,2,
-6,העולם הזה - כוח חדש,1,
-6,"מק""י",1,
-7,המערך,56,11/17/1969
-7,"גח""ל",26,
-7,"מפד""ל",12,
-7,אגודת ישראל,4,
-7,ליברלים עצמאיים,4,
-7,הרשימה הממלכתית,4,
-7,"רק""ח",3,
-7,קידמה ופיתוח,2,
-7,"פאג""י",2,
-7,שיתוף ואחווה,2,
-7,העולם הזה - כוח חדש,2,
-7,המרכז החופשי,2,
-7,"מק""י",1,
-8,המערך,51,1/21/1974
-8,הליכוד,39,
-8,"מפד""ל",10,
-8,חזית דתית תורתית,5,
-8,ליברלים עצמאיים,4,
-8,"רק""ח",4,
-8,רצ,3,
-8,קידמה ופיתוח,2,
-8,מוקד,1,
-8,רשימה ערבית לבדואים וכפריים,1,
-9,הליכוד,43,6/13/1977
-9,המערך,32,
-9,"ד""ש",15,
-9,"מפד""ל",12,
-9,"חד""ש",5,
-9,אגודת ישראל,4,
-9,שלומציון,2,
-9,"מחנה של""י",2,
-9,פלאטו שרון,1,
-9,הרשימה הערבית המאוחדת,1,
-9,פועלי אגודת ישראל,1,
-9,רצ,1,
-9,ליברלים עצמאיים,1,
-10,הליכוד,48,6/30/1981
-10,המערך,47,
-10,"מפד""ל",6,
-10,אגודת ישראל,4,
-10,החזית הדמוקרטית לשלום ולשוויון,4,
-10,"תמ""י",3,
-10,התחייה,3,
-10,תנועה להתחדשות ממלכתית,2,
-10,שינוי,2,
-10,"ר""צ",1,
-11,הליכוד,41,8/13/1948
-11,המערך,44,
-11,רשימת התחיה-צומת,5,
-11,"מפד""ל",4,
-11,חד״ש הפנטרים השחורים,4,
-11,"ש""ס",4,
-11,שינוי,3,
-11,"ר""צ",3,
-11,יחד,3,
-11,הרשימה המתקדמת לשלום,2,
-11,אגודת ישראל,2,
-11,מורשה,2,
-11,"תמ""י",1,
-11,"כ""ך",1,
-11,אומץ,1,
-12,הליכוד,40,1/21/1988
-12,המערך,39,
-12,"ש""ס",6,
-12,"ר""צ",5,
-12,אגודת ישראל,5,
-12,"המפד""ל",5,
-12,"חד""ש",4,
-12,"מפ""ם",3,
-12,התחייה,3,
-12,שינוי,2,
-12,צומת,2,
-12,מולדת,2,
-12,דגל התורה,2,
-12,הרשימה המתקדמת לשלום,1,
-12,"מד""ע",1,
-13,הליכוד,40,7/13/1992
-13,המערך,39,
-13,"ש""ס",6,
-13,"ר""צ",5,
-13,אגודת ישראל,5,
-13,"המפד""ל",5,
-13,"חד""ש",4,
-13,"מפ""ם",3,
-13,התחייה,3,
-13,שינוי,2,
-13,צומת,2,
-13,מולדת,2,
-13,דגל התורה,2,
-13,הרשימה המתקדמת לשלום,1,
-13,"מד""ע",1,
-14,העבודה,34,1996-17-06
-14,הליכוד-גשר-צומת,32,
-14,"ש""ס",10,
-14,"מפד""ל",9,
-14,מרצ,9,
-14,ישראל בעלייה,7,
-14,"חד""ש-בל""ד",5,
-14,יהדות התורה,4,
-14,הדרך השלישית,4,
-14,"מד""ע-רע""מ",4,
-14,מולדת,2,
-15,ישראל אחת,26,6/7/1999
-15,הליכוד,19,
-15,"ש""ס ",17,
-15,מרצ,10,
-15,ישראל בעלייה,6,
-15,שינוי,6,
-15,מפלגת המרכז,6,
-15,"מפד""ל ",5,
-15,יהדות התורה,5,
-15,"רע""ם ",5,
-15,האיחוד הלאומי,4,
-15,ישראל ביתנו,4,
-15,"חד""ש ",3,
-15,עם אחד,2,
-15,"בל""ד ",2,
-16,הליכוד,38,2/17/2003
-16,עבודה מימד,19,
-16,שינוי,15,
-16,"ש""ס ",11,
-16,האיחוד הלאומי ביתנו,7,
-16,"מרצ הבחירה הדמוקרטית שח""ר ",6,
-16,"מפד""ל ",6,
-16,יהדות התורה,5,
-16,"חד""ש תע""ל ",3,
-16,עם אחד,3,
-16,"בל""ד ",3,
-16,ישראל בעלייה,2,
-16,"רע""מ ",2,
-17,קדימה,29,4/17/2008
-17,עבודה-מימד,19,
-17,הליכוד,12,
-17,"ש""ס",12,
-17,ישראל ביתנו,11,
-17,"האיחוד הלאומי-המפד""ל",9,
-17,גיל,7,
-17,יהדות התורה,6,
-17,מרצ-יחד,5,
-17,"רע""ם-תע""ל",4,
-17,"חד""ש",3,
-17,"בל""ד",3,
-18,קדימה,28,2/24/2009
-18,הליכוד,27,
-18,ישראל ביתנו,15,
-18,העבודה,13,
-18,"ש""ס ",11,
-18,יהדות התורה,5,
-18,האיחוד הלאומי,4,
-18,"חד""ש ",4,
-18,"רע""ם-תע""ל ",4,
-18,הבית היהודי,3,
-18,מרצ-יחד,3,
-18,"בל""ד ",3,
-19,הליכוד ישראל ביתנו,31,12/8/2014
-19,יש עתיד,19,
-19,העבודה,15,
-19,הבית היהודי,12,
-19,"ש""ס ",11,
-19,יהדות התורה,7,
-19,התנועה,6,
-19,מרצ,6,
-19,"רע""מ תע""ל ",4,
-19,"חד""ש ",4,
-19,"בל""ד ",3,
-19,קדימה,2,
-20,ליקוד,30,
-20,המחנה הציוני,24,
-20,הרשימה המשותפת,14,
-20,יש עתיד,11,
-20,כולנו,10,
-20,הבית היהודי,8,
-20,שס,7,
-20,יהדות התורה,6,
-20,ישראל ביתנו,6,
-20,מרצ,4,
+number,party,seats
+1,Mapai,46
+1,Mapam,19
+1,United Religious Front,16
+1,Herut,14
+1,General Zionists,7
+1,Progressive Party,5
+1,Sephardim and Oriental Communities,4
+1,Maki,4
+1,Democratic List of Nazareth,2
+1,Fighters' List,1
+1,Women's International Zionist Organization,1
+1,Yemenite Association,1
+2,Mapai,45
+2,General Zionists,20
+2,Mapam,15
+2,Hapoel HaMizrachi,8
+2,Herut,8
+2,Maki,5
+2,Progressive Party,4
+2,Democratic List for Israeli Arabs,3
+2,Agudat Yisrael,3
+2,Sephardim and Oriental Communities,2
+2,Poalei Agudat Yisrael,2
+2,Mizrachi,2
+2,Progress and Work,1
+2,Yemenite Association,1
+2,Agriculture and Development,1
+3,Mapai,40
+3,Herut,15
+3,General Zionists,13
+3,National Religious Front,11
+3,Ahdut HaAvoda,10
+3,Mapam,9
+3,Religious Torah Front,6
+3,Maki,6
+3,Progressive Party,5
+3,Democratic List for Israeli Arabs,2
+3,Progress and Work,2
+3,Agriculture and Development,1
+4,Mapai,47
+4,Herut,17
+4,National Religious Party,12
+4,Mapam,9
+4,General Zionists,8
+4,Ahdut HaAvoda,7
+4,Religious Torah Front,6
+4,Progressive Party,6
+4,Maki,3
+4,Progress and Development,2
+4,Cooperation and Brotherhood,2
+4,Agriculture and Development,1
+5,Mapai,42
+5,Herut,17
+5,Liberal Party,17
+5,National Religious Party,12
+5,Mapam,9
+5,Ahdut HaAvoda,8
+5,Maki,5
+5,Agudat Yisrael,4
+5,Poalei Agudat Yisrael,2
+5,Cooperation and Brotherhood,2
+5,Progress and Development,2
+6,Labour Alignment,45
+6,Gahal,26
+6,National Religious Party,11
+6,Rafi,10
+6,Mapam,8
+6,Independent Liberals,5
+6,Agudat Yisrael,4
+6,Rakah,3
+6,Progress and Development,2
+6,Poalei Agudat Yisrael,2
+6,Cooperation and Brotherhood,2
+6,HaOlam HaZeh – Koah Hadash,1
+6,Maki,1
+7,Alignment,56
+7,Gahal,26
+7,National Religious Party,12
+7,Agudat Yisrael,4
+7,Independent Liberals,4
+7,National List,4
+7,Rakah,3
+7,Progress and Development,2
+7,Poalei Agudat Yisrael,2
+7,Cooperation and Brotherhood,2
+7,HaOlam HaZeh – Koah Hadash,2
+7,Free Centre,2
+7,Maki,1
+8,Alignment,51
+8,Likud,39
+8,National Religious Party,10
+8,Religious Torah Front,5
+8,Independent Liberals,4
+8,Rakah,4
+8,Ratz,3
+8,Progress and Development,2
+8,Moked,1
+8,Arab List for Bedouin and Villagers,1
+9,Likud,43
+9,Alignment,32
+9,Democratic Movement for Change,15
+9,National Religious Party,12
+9,Hadash,5
+9,Agudat Yisrael,4
+9,Flatto-Sharon,1
+9,Shlomtzion,2
+9,Left Camp of Israel,2
+9,United Arab List,1
+9,Poalei Agudat Yisrael,1
+9,Ratz,1
+9,Independent Liberals,1
+10,Likud,48
+10,Alignment,47
+10,National Religious Party,6
+10,Agudat Yisrael,4
+10,Hadash,4
+10,Tehiya,3
+10,Tami,3
+10,Telem,2
+10,Shinui,2
+10,Ratz,1
+11,Alignment,44
+11,Likud,41
+11,Tehiya–Tzomet,5
+11,National Religious Party,4
+11,Hadash,4
+11,Shas,4
+11,Shinui,3
+11,Ratz,3
+11,Yahad,3
+11,Progressive List for Peace,2
+11,Agudat Yisrael,2
+11,Morasha,2
+11,Tami,1
+11,Kach,1
+11,Ometz,1
+12,Likud,40
+12,Alignment,39
+12,Shas,6
+12,Agudat Yisrael,5
+12,Ratz,5
+12,National Religious Party,5
+12,Hadash,4
+12,Tehiya,3
+12,Mapam,3
+12,Tzomet,2
+12,Moledet,2
+12,Shinui,2
+12,Degel HaTorah,2
+12,Progressive List for Peace,1
+12,Arab Democratic Party,1
+13,Labor Party,44
+13,Likud,32
+13,Meretz,12
+13,Tzomet,8
+13,National Religious Party,6
+13,Shas,6
+13,United Torah Judaism,4
+13,Hadash,3
+13,Moledet,3
+13,Arab Democratic Party,2
+14,Labor Party,34
+14,Likud–Gesher–Tzomet,32
+14,Shas,10
+14,National Religious Party,9
+14,Meretz,9
+14,Yisrael BaAliyah,7
+14,Hadash–Balad,5
+14,United Torah Judaism,4
+14,Third Way,4
+14,Ra'am–Mada,4
+14,Moledet,2
+15,One Israel,26
+15,Likud,19
+15,Shas,17
+15,Meretz,10
+15,Yisrael BaAliyah,6
+15,Shinui,6
+15,Centre Party,6
+15,National Religious Party,5
+15,United Torah Judaism,5
+15,United Arab List,5
+15,National Union,4
+15,Hadash,3
+15,Yisrael Beiteinu,4
+15,Balad–Ta'al,2
+15,One Nation,2
+16,Likud,38
+16,Labor–Meimad,19
+16,Shinui,15
+16,Shas,11
+16,National Union,7
+16,Meretz - Democratic Choice - Shahar,6
+16,National Religious Party,6
+16,United Torah Judaism,5
+16,Hadash–Ta'al,3
+16,One Nation,3
+16,Balad,3
+16,Yisrael BaAliyah,2
+16,United Arab List,2
+17,Kadima,29
+17,Labor–Meimad,19
+17,Shas,12
+17,Likud,12
+17,Yisrael Beiteinu,11
+17,National Union–National Religious Party,9
+17,Gil,7
+17,United Torah Judaism,6
+17,Meretz-Yachad,5
+17,United Arab List–Ta'al,4
+17,Hadash,3
+17,Balad,3
+18,Kadima,28
+18,Likud,27
+18,Yisrael Beiteinu,15
+18,Labor Party,13
+18,Shas,11
+18,United Torah Judaism,5
+18,United Arab List–Ta'al,4
+18,National Union,4
+18,Hadash,4
+18,New Movement-Meretz,3
+18,The Jewish Home,3
+18,Balad,3
+19,Likud Yisrael Beiteinu,31
+19,Yesh Atid,19
+19,Labor Party,15
+19,The Jewish Home,12
+19,Shas,11
+19,United Torah Judaism,7
+19,Hatnua,6
+19,Meretz,6
+19,Ra'am,4
+19,Hadash,4
+19,Balad,3
+19,Kadima,2
+20,Likud,30
+20,Zionist Union,24
+20,Joint List,13
+20,Yesh Atid,11
+20,Kulanu,10
+20,The Jewish Home,8
+20,Shas,7
+20,Yisrael Beiteinu,6
+20,United Torah Judaism,6
+20,Meretz,5
+21,Likud,35
+21,Blue and White,35
+21,Shas,8
+21,United Torah Judaism,8
+21,Hadash–Ta'al,6
+21,Labor Party,6
+21,Yisrael Beiteinu,5
+21,Union of Right-Wing Parties,5
+21,Meretz,4
+21,Kulanu,4
+21,United Arab List–Balad,4
+22,Blue and White,33
+22,Likud,32
+22,Joint List,13
+22,Shas,9
+22,Yisrael Beiteinu,8
+22,United Torah Judaism,7
+22,Yamina,7
+22,Labor–Gesher,6
+22,Democratic Union,5
+23,Likud,36
+23,Blue and White,33
+23,Joint List,15
+23,Shas,9
+23,United Torah Judaism,7
+23,Labor-Gesher-Meretz,7
+23,Yisrael Beiteinu,7
+23,Yamina,6
+24,Likud,30
+24,Yesh Atid,17
+24,Shas,9
+24,Blue and White,8
+24,Yamina,7
+24,Israeli Labor Party,7
+24,United Torah Judaism,7
+24,Yisrael Beiteinu,7
+24,Religious Zionist Party,6
+24,Joint List,6
+24,New Hope,6
+24,Meretz,6
+24,Ra'am,4
+25,Likud,32
+25,Yesh Atid,24
+25,Religious Zionism-Otzma Yehudit,14
+25,National Unity,12
+25,Shas,11
+25,United Torah Judaism,7
+25,Yisrael Beiteinu,6
+25,Ra'am,5
+25,Hadash–Ta'al,5
+25,Israeli Labor Party,4
+26,Likud,27
+26,Yashar,21
+26,Together,12
+26,Joint List,11
+26,The Democrats,8
+26,Yisrael Beiteinu,7
+26,Ra'am,8
+26,Otzma Yehudit,7
+26,United Torah Judaism,7
+26,Shas,6
+26,Religious Zionism – Zehut,6
